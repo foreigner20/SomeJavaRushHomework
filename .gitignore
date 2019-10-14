@@ -4,15 +4,7 @@
 target/
 .idea/
 .idea
-.repository/
-*.iml
-*.iws
-*.jrtc
-*.java
-*.class
-*.info
-*.properties
-*.jar
+
 
 /1.JavaSyntax/
 /5.OnlineInternship/
